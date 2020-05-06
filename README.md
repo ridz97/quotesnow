@@ -1,5 +1,5 @@
 # Quotesnow
-Motivational Quotes.
+Random motivational quotes for you.
 
 ## Table of contents
 * [Quotesnow](#quotesnow)
