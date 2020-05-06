@@ -1,5 +1,5 @@
 # Quotesnow
-Inspirational Motivational Quotes Generator.
+Motivational Quotes.
 
 ## Table of contents
 * [Quotesnow](#quotesnow)
