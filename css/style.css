@@ -16,6 +16,10 @@ img {
     width: 500px;
 }
 
+.banner {
+    max-width: 348px;
+}
+
 .btn {
     margin-top: 2px;
 }
