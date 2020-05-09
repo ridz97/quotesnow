@@ -10,7 +10,7 @@ html, body {
     background-image: linear-gradient(to top right, #33ccff 0%, #ff99cc 100%);
 }
 
-img {
+#img {
     border: 1px solid black;
     border-radius: 15px;
     width: 500px;
