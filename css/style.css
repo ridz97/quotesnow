@@ -16,7 +16,7 @@ html, body {
     width: 500px;
 }
 
-.banner {
+#banner {
     vertical-align: middle;
     text-align: center;
     max-width: 100%;
