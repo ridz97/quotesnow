@@ -15,6 +15,7 @@ html, body {
     border-radius: 15px;
     width: 500px;
     height: 400px;
+    max-width: 328px;
     max-height: 280px;
 }
 
