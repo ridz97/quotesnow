@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="460" height="300" src="img/idea.png">
+</p>
+
 # Quotesnow
 Random motivational quotes for you.
 
